@@ -1,0 +1,16 @@
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe.config
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.pdb
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.csproj.AssemblyReference.cache
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.login.resources
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Properties.Resources.resources
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.csproj.GenerateResource.cache
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.exe
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.pdb
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.MainForm.resources
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\bin\Debug\Guna.UI2.dll
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.registrationForm.resources
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.csproj.CopyComplete
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.ManageStudent.resources
+C:\Users\Asus\projectIM\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.PrintStudent.resources
